@@ -1,6 +1,6 @@
 # zipme
 
-Shell script for zipping all folders within a directory. Place this UNIX file within the bin directory on your machine.
+Shell script for zipping all folders within a directory. Place the zipme UNIX file within the bin directory on your machine. 
 
 ```
 /usr/local/bin
